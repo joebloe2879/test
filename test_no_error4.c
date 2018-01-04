@@ -1,0 +1,1 @@
+int main(){  printf("No error in 4\n");  return 0;}

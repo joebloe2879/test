@@ -1,0 +1,1 @@
+int main(){  fprintf(stderr,"Error in 3\n");  return -1;}
